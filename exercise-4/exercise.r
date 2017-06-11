@@ -4,7 +4,7 @@ library(httr)
 
 # Make a variable base.url that has the same base url from the omdb documentation.
 # (Hint: visit https://www.omdbapi.com/ to find the base url)
-
+base.url <- "http://www.omdbapi.com/"
 
 # Make a variable called movie that has the name of your favorite movie
 
